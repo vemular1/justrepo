@@ -1,4 +1,8 @@
 qwertrty this is file3
+<<<<<<< HEAD
 
 
 added content file3 in local
+=======
+Added content in file2 remote
+>>>>>>> 31f1145ff91f2e1cd870bd1789bfd38c63aa965e
